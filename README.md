@@ -19,3 +19,7 @@ json
 ```
 sqlContext
 ```
+```
+pyspark
+```
+- Used to open files, create PySpark Dataframes and analyse them
