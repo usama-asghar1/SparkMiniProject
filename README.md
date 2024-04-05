@@ -12,7 +12,7 @@ Run a compute in Databricks and import the interactive notebook file.
 
 ## Packages
 ```
-import json
+json
 ```
 - Used to open the JSON file
 
