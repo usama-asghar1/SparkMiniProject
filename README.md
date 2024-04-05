@@ -16,4 +16,6 @@ import json
 ```
 - Used to open the JSON file
 
-  
+```
+sqlContext
+```
